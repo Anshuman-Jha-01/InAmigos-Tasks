@@ -222,21 +222,10 @@ Right Click → Open with Live Server
 InAmigos-Foundation/
 │
 ├── index.html                 # Main website
-├── style.css                  # Global stylesheet
 │
 ├── public/
-│   ├── logo.png
-│   ├── unity.jpg
-│   ├── bachpanshala.jpg
-│   ├── csr.png
-│   ├── top5best.jpg
-│   ├── jeev.jpg
-│   ├── seva.jpg
-│   ├── udaan.jpg
-│   ├── prakriti.jpg
-│   ├── supply.jpg
-│   └── icon.png
-│
+│   ├──style.css               # Global stylesheet
+│   └── images/                # icons and images
 └── README.md
 ```
 
