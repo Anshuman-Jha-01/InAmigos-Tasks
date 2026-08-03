@@ -63,7 +63,7 @@ InAmigos-Foundation-Internship/
 
 | Task     | Project     | Description                                                          |    Status   |
 | -------- | ----------- | -------------------------------------------------------------------- | :---------: |
-| ✅ Task 1 | NGO Website | Designed and developed a responsive website for InAmigos Foundation. | ✔ Completed |
+| ✅ Task 1 | <a href="https://inamigosfoundation.onrender.com/">NGO Website</a> | Designed and developed a responsive website for InAmigos Foundation. | ✔ Completed |
 | ⏳ Task 2 | Coming Soon | To be updated.                                                       |      🚧     |
 | ⏳ Task 3 | Coming Soon | To be updated.                                                       |      🚧     |
 | ⏳ Task 4 | Coming Soon | To be updated.                                                       |      🚧     |
