@@ -64,7 +64,7 @@ InAmigos-Foundation-Internship/
 | Task     | Project     | Description                                                          |    Status   |
 | -------- | ----------- | -------------------------------------------------------------------- | :---------: |
 | ✅ Task 1 | <a href="https://inamigosfoundation.onrender.com/">NGO Website</a> | Designed and developed a responsive website for InAmigos Foundation. | ✔ Completed |
-| ⏳ Task 2 | Coming Soon | To be updated.                                                       |      🚧     |
+| ✅ Task 2 | <a href="https://github.com/Anshuman-Jha-01/InAmigos-Tasks/blob/main/Task%202%20-%20Website%20Audit/InAmigos_Foundation_Website_Audit.pdf">Audit Report</a> | Authored a Website Improvement Analysis & Recommendations audit report for the InAmigos Foundation Website.                                                      |      ✔ Completed     |
 | ⏳ Task 3 | Coming Soon | To be updated.                                                       |      🚧     |
 | ⏳ Task 4 | Coming Soon | To be updated.                                                       |      🚧     |
 | ⏳ Task 5 | Coming Soon | To be updated.                                                       |      🚧     |
@@ -121,7 +121,7 @@ Overall Internship Progress
 
 Task 1  ████████████████████ 100%
 
-Task 2  ░░░░░░░░░░░░░░░░░░░░   0%
+Task 2  ████████████████████ 100%
 
 Task 3  ░░░░░░░░░░░░░░░░░░░░   0%
 
