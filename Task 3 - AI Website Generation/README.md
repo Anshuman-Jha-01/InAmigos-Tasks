@@ -115,8 +115,8 @@ Ensure that you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
-   cd <project-directory>
+   git clone https://github.com/Anshuman-Jha-01/InAmigos-Tasks.git
+   cd Task 3 - AI Website Generation
    ```
 
 2. **Install server dependencies:**
